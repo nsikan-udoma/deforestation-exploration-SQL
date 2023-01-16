@@ -11,5 +11,5 @@ At the end of the project, I submitted a report to the leadership team to help t
 Find attached, the report for your review.  
 [ForestQuery - Deforestation Exploration Report.pdf](../main/ForestQuery%20-%20Deforestation%20Exploration%20Report.pdf)
 
-Link to project worksheet on evernote:
+Link to project worksheet that contain all SQL queries used for this analysis:
 [Project Worksheet Description Link](https://www.evernote.com/shard/s421/sh/94ca6240-0dfb-9abf-c8ba-350426c5f5d4/bd90f851626fe8e10ca3685bf08b5880)
